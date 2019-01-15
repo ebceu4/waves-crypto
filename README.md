@@ -1,3 +1,4 @@
+# PROJECT MOVED TO [*WAVESPLATFORM/WAVES-CRYPTO*](https://github.com/wavesplatform/waves-crypto). THIS REPOSITORY IS NO LONGER MAINTAINED!! PLEASE USE WAVESPLATFORM [REPOSITORY](https://github.com/wavesplatform/waves-crypto) AND [NPM PACKAGE](https://www.npmjs.com/package/@waves/waves-crypto)
 # waves-crypto  [![npm version](https://badge.fury.io/js/waves-crypto.svg)](https://www.npmjs.com/package/waves-crypto)
 
 Using this library you can easily create and sign binary data for Waves blockchain.
